@@ -1,6 +1,3 @@
-# vamc526.github.io
-
-
 # Data Scientist
 
 ## About Me
@@ -20,17 +17,7 @@ Hello! I'm **Vamshi Bairagoni**, a dedicated Data Scientist with a solid foundat
   - **Graduation Date:** May 2024
   - **Key Coursework:** Advanced Statistical Methods, Big Data Analytics, Machine Learning, Deep Learning, Data Visualization, Advanced Database Concepts
 
-- **Ph.D. in Physics**
-  - The University of Texas at Dallas
-  - **Graduation Date:** May 2022
 
-- **Master of Science in Physics**
-  - The University of Texas at Dallas
-  - **Graduation Date:** December 2019
-
-- **Bachelor of Science in Physics**
-  - The University of Texas at Dallas
-  - **Graduation Date:** May 2017
 
 ## Technical Skills
 - **Programming Languages:** Python, SQL, R, Scala, C, Java
@@ -40,18 +27,6 @@ Hello! I'm **Vamshi Bairagoni**, a dedicated Data Scientist with a solid foundat
 - **Other Tools:** Microsoft Access, Excel, GitHub, Jenkins, Power Automate
 
 ## Work Experience
-### Data Scientist @ Toyota Financial Services
-**June 2022 - Present**
-
-- **Improved Data Pipeline Efficiency:** Identified and resolved a critical missing step in the production data pipeline, enhancing the accuracy of data processing for over 70% of active accounts.
-- **Enhanced Loan Originations Model:** Redeveloped the loan origination model, resulting in a 50% improvement in model performance and saving $1 million in potential losses.
-
-### Data Science Consultant @ Shawhin Talebi Ventures LLC
-**December 2020 - Present**
-
-- **Innovative Biometrics Analysis:** Conducted extensive data collection and analysis for a study on the impact of over 300 biometrics variables on human performance in hyper-realistic training scenarios.
-- **Deep Learning for Healthcare:** Applied unsupervised deep learning techniques to ICU data, discovering novel sepsis sub-phenotypes.
-
 ### Data Analyst Intern @ Illinois Department of Human Services
 **March 2023 - May 2024**
 
@@ -76,19 +51,19 @@ Hello! I'm **Vamshi Bairagoni**, a dedicated Data Scientist with a solid foundat
 - **Project Overview:** Developed a blog generation application using Streamlit, integrating a 13-billion-parameter LLM model based on Llama2 architecture.
 - **Technical Stack:** Streamlit, Ctransformers, Hugging Face Hub.
 - **Impact:** Streamlined content generation with an intuitive interface, showcasing AI-driven content creation potential.
-- **[Project Link](#)**
+
 
 ### Sentiment Analysis on Twitter Data
 - **Project Overview:** Enhanced Twitter sentiment analysis using deep learning techniques, notably BERT and other transformer models.
 - **Achievements:** Achieved a 76.9% validation accuracy.
 - **Impact:** Provided valuable insights for market research, brand management, and public opinion monitoring.
-- **[Project Link](#)**
+
 
 ### Telecom Customer Churn Analysis and Prediction
 - **Project Overview:** Developed machine learning models to predict customer churn in the telecommunications sector.
 - **Technical Stack:** Logistic regression, gradient boosting, neural networks.
 - **Impact:** Improved accuracy in identifying churn factors and developed proactive retention strategies.
-- **[Project Link](#)**
+
 
 ## Publications & Achievements
 - **Emotion-Based Music Recommendation System Using Wearable Physiological Sensors**
