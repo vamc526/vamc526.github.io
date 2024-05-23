@@ -1,5 +1,5 @@
 title: Vamshi Bairagoni Portfolio
-logo: /assets/img/headshot_small.jpeg
+#logo: /assets/img/headshot_small.jpeg
 description: Masters in Data Analytics from University of Illinois Springfield
 show_downloads: true
 theme: jekyll-theme-minimal
