@@ -27,7 +27,7 @@ Hello! I'm **Vamshi Bairagoni**, a dedicated Data Scientist with a solid foundat
 - **Other Tools:** Microsoft Access, Excel, GitHub, Jenkins, Power Automate
 
 ## Work Experience
-### Data Analyst Intern @ Illinois Department of Human Services
+### Data Science Intern @ Illinois Department of Human Services
 **March 2023 - May 2024**
 
 - **Cannabis Prevention Initiatives:** Managed initiatives within Substance Use Recovery and Prevention, orchestrating provider meetings, issuing grants, and managing funding.
