@@ -34,17 +34,6 @@ Hello! I'm **Vamshi Bairagoni**, a dedicated Data Scientist with a solid foundat
 - **Database Development:** Created a comprehensive database using Microsoft Access, Excel, Power BI, SharePoint, and Power Automate.
 - **Efficiency Enhancements:** Utilized SQL and VBA to automate reporting processes, reducing report generation time by 50%, and created interactive dashboards for stakeholder insights.
 
-### Data Engineer/ETL Developer @ Tata Consultancy Services
-**January 2021 - August 2022**
-
-- **Data Migration to Azure:** Led the migration of critical datasets from on-prem SQL Server to Azure, significantly improving data accessibility and scalability.
-- **Pipeline Orchestration:** Developed and optimized data pipelines with Azure Data Factory, T-SQL, and Spark SQL, enhancing operational efficiency by 40%.
-
-### Big Data Engineer @ Tata Consultancy Services
-**December 2019 - January 2021**
-
-- **Data Analytics with Spark:** Utilized Spark Data Frames and Spark SQL for efficient data analytics, transforming data from traditional databases to Hive tables.
-- **ETL Process Optimization:** Managed ad hoc ETL requests, improving data processing efficiency by 40%.
 
 ## Projects
 ### Blog Generation Application with LLM Model
