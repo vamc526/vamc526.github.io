@@ -1,12 +1,11 @@
 # Data Scientist
 
 ## About Me
-Hello! I'm **Vamshi Bairagoni**, a dedicated Data Scientist with a solid foundation in Physics and extensive experience in data analytics, machine learning, and big data technologies. My mission is to leverage data-driven insights to solve complex problems and drive innovation across various sectors. With a passion for continuous learning and a knack for turning data into actionable intelligence, I am eager to tackle new challenges and contribute to cutting-edge projects.
+Hello! I'm **Vamshi**, a dedicated Data Scientist with a solid foundation in Physics and extensive experience in data analytics, machine learning, and big data technologies. My mission is to leverage data-driven insights to solve complex problems and drive innovation across various sectors. With a passion for continuous learning and a knack for turning data into actionable intelligence, I am eager to tackle new challenges and contribute to cutting-edge projects.
 
 ### Contact Information
 - **Location:** Springfield, IL
 - **LinkedIn:** [LinkedIn Profile](#)
-- **Phone:** 217-588-9566
 - **Email:** vamc526@outlook.com
 - **GitHub:** [GitHub Profile](#)
 
