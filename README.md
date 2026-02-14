@@ -25,14 +25,6 @@ Hello! I'm **Vamshi**, a dedicated Data Scientist with a solid foundation in Phy
 - **Cloud Platforms:** AWS, Azure, Snowflake
 - **Other Tools:** Microsoft Access, Excel, GitHub, Jenkins, Power Automate
 
-## Work Experience
-### Data Science Intern @ Illinois Department of Human Services
-**March 2023 - May 2024**
-
-- **Cannabis Prevention Initiatives:** Managed initiatives within Substance Use Recovery and Prevention, orchestrating provider meetings, issuing grants, and managing funding.
-- **Database Development:** Created a comprehensive database using Microsoft Access, Excel, Power BI, SharePoint, and Power Automate.
-- **Efficiency Enhancements:** Utilized SQL and VBA to automate reporting processes, reducing report generation time by 50%, and created interactive dashboards for stakeholder insights.
-
 
 ## Projects
 ### Blog Generation Application with LLM Model
